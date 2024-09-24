@@ -1,0 +1,10 @@
+{ 
+	"app_title": "TelegramAutoPub", 
+	"api_id": 123456, 
+	"api_hash":"YOUR_API_HASH", 
+	"phone": "+1111111111111", 
+	"messages_path": "./config/messages.txt", 
+	"groups_path": "./config/groups.txt", 
+	"channels_path": "./config/channel.txt", 
+	"forward_header": 1 
+}
